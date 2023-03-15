@@ -16,7 +16,7 @@ Descripción
 
 Foto de mi persona:
 
-![d](https://media.istockphoto.com/id/1423183219/es/vector/la-pelusa-de-diente-de-le%C3%B3n-vuela-lejos-del-viento.jpg?s=612x612&w=0&k=20&c=nSMyODf20H4HZxTyGNmsbY1FNsnU0irg0d-4XI94ZsM=)
+![d]https://cdnuploads.aa.com.tr/uploads/Contents/2019/07/29/thumbs_b_c_ce532ee4ac257cc2b93fc0e387ffa5ee.jpg?v=231856
 
 Diente de Leon
 
